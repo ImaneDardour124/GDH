@@ -29,6 +29,7 @@ void Hacks::Init() {
                 {"Unlock Shops", "Unlocks all shops", "unlock_shops"}, // +  
                 {"Unlock Vaults", "Unlocks all Vaults and doors", "unlock_vaults"},
                 {"Main Levels", "Unlocks all main levels", "main_levels"} // +     
+                {"Moderator Bypass", "can't rate levels", "moderator_bypass"} // +     
             }
         },
         {"Player", 220, 10, 220, 640, 
